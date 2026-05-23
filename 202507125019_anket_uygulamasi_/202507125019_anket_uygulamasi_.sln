@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "202507125019_anket_uygulamasi_", "202507125019_anket_uygulamasi_\202507125019_anket_uygulamasi_.csproj", "{21BF086B-D9F2-4E04-A90C-FC42409E79F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21BF086B-D9F2-4E04-A90C-FC42409E79F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BF086B-D9F2-4E04-A90C-FC42409E79F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BF086B-D9F2-4E04-A90C-FC42409E79F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BF086B-D9F2-4E04-A90C-FC42409E79F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE29C330-F695-4EFA-99D4-4A8B4BD51376}
+	EndGlobalSection
+EndGlobal

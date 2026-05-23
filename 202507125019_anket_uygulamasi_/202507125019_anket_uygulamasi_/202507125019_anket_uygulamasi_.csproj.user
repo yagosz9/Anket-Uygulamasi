@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAnketCoz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAnketListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAnketOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKategoriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKullaniciAnketleriGor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSonuclar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSonuclarim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
